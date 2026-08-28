@@ -1,0 +1,11 @@
+name: adrift
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - matplotlib>=3.7
+  - jupyter>=1.0
+  - notebook>=7.0
+  - pytest>=7.4
+  - pip
